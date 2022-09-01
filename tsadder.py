@@ -41,7 +41,6 @@ def banner():
     f = pyfiglet.Figlet(font='slant')
     logo = f.renderText('Telegram')
     print(random.choice(colors) + logo + rs)
-    print(f'{r}   Version: {w}1.1 {r}| Author: {w}Shabani{rs}')
 
 
 def clr():
@@ -57,7 +56,7 @@ f.close()
 clr()
 banner()
 users = []
-input_file = 'members\\members.csv'
+input_file = 'members.csv'
 with open(input_file, 'r', encoding='UTF-8') as f:
     reader = csv.reader(f, delimiter=',', lineterminator='\n')
     next(reader, None)

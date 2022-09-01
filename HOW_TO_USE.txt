@@ -1,7 +1,5 @@
 ==How to use== [simple guide]
 
-COPY CODE WITH CREDITS
-
 
 Also, if you enjoyed using the tool, do give it a star on GitHub
 

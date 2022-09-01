@@ -51,7 +51,6 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # Buy me a coffee
 
-https://www.buymeacoffee.com/denizshabani
 
 # Warning
 
@@ -60,8 +59,3 @@ https://www.buymeacoffee.com/denizshabani
 # News
 
 * I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it contact me:
- 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/noneofyourbusiness69) 
-* If you have any problems regarding the script then write it in this groupchat:
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/GitHubScriptsHelp)

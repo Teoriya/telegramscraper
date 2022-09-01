@@ -46,7 +46,6 @@ def clr():
 
 clr()
 banner()
-print(f'  {r}Version: {w}1.1 {r}| Author: {w}Shabani{rs}\n')
 f = open('vars.txt', 'rb')
 accs = []
 while True:
